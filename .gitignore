@@ -1,0 +1,14 @@
+*.swp
+
+
+*.aux
+*.log
+*.out
+*.pdf
+*.toc
+*.bbl
+*.blg
+
+*.sublime-*
+!/SSLIndicator/out/*.pdf
+*.~*
